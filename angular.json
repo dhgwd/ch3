@@ -121,8 +121,5 @@
       }
     }
   },
-  "defaultProject": "inventory-app",
-  "cli": {
-    "analytics": false
-  }
+  "defaultProject": "inventory-app"
 }
